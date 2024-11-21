@@ -1,0 +1,8 @@
+langchain-community
+langchain
+langchain-chroma
+langchain-core
+langchain-huggingface
+langchain-ollama
+chroma
+pypdf
