@@ -1,0 +1,12 @@
+pandas 
+langchain-community
+langchain
+langchain-chroma
+langchain-core
+langchain-huggingface
+langchain-ollama 
+langchain-experimental 
+langchain-groq
+langgraph 
+tabulate
+netmiko
